@@ -1820,7 +1820,7 @@
   resolved "https://registry.yarnpkg.com/@next/env/-/env-12.3.1.tgz#18266bd92de3b4aa4037b1927aa59e6f11879260"
   integrity sha512-9P9THmRFVKGKt9DYqeC2aKIxm8rlvkK38V1P1sRE7qyoPBIs8l9oo79QoSdPtOWfzkbDAVUqvbQGgTMsb8BtJg==
 
-"@next/eslint-plugin-next@12.3.1", "@next/eslint-plugin-next@^12.2.5":
+"@next/eslint-plugin-next@12.3.1", "@next/eslint-plugin-next@^12.3.1":
   version "12.3.1"
   resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-12.3.1.tgz#b821f27b0f175954d8d18e5d323fce040ecc79a6"
   integrity sha512-sw+lTf6r6P0j+g/n9y4qdWWI2syPqZx+uc0+B/fRENqfR3KpSid6MIKqc9gNwGhJASazEQ5b3w8h4cAET213jw==
@@ -5996,14 +5996,14 @@ eslint-config-prettier@^8.5.0:
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.5.0.tgz#5a81680ec934beca02c7b1a61cf8ca34b66feab1"
   integrity sha512-obmWKLUNCnhtQRKc+tmnYuQl0pFU1ibYJQ5BGhTVB08bHe9wC8qUeG7c08dj9XX+AuPj1YSGSQIHl1pnDHZR0Q==
 
-eslint-config-xo-nextjs@^4.2.1:
-  version "4.2.1"
-  resolved "https://registry.yarnpkg.com/eslint-config-xo-nextjs/-/eslint-config-xo-nextjs-4.2.1.tgz#b757dc5c35c636ad248b20b7c9d9788d0e8d38af"
-  integrity sha512-D8QSsL82RoIStuaQb4HRZyhS9h/N1nH6igZffASTaB3Ks6fEAHDZGIeu8RytQo1OBjmynsuWfaonZmWPywWJVQ==
+eslint-config-xo-nextjs@^4.2.2:
+  version "4.2.2"
+  resolved "https://registry.yarnpkg.com/eslint-config-xo-nextjs/-/eslint-config-xo-nextjs-4.2.2.tgz#e66cb250e071ed61b7b48e893373690319997d3d"
+  integrity sha512-5Ksf18uuY38Z6+c5H2+VO9BdVaz4Qwkg3ptTKoxZ9HhKT/l1PcU0mC/Qa9HZht1aRhQPcogW0wD7zoGby4O1Nw==
   dependencies:
-    "@next/eslint-plugin-next" "^12.2.5"
+    "@next/eslint-plugin-next" "^12.3.1"
     eslint-config-xo-react "^0.27.0"
-    eslint-plugin-react "^7.30.1"
+    eslint-plugin-react "^7.31.8"
     eslint-plugin-react-hooks "^4.6.0"
 
 eslint-config-xo-react@^0.27.0:
@@ -6197,7 +6197,7 @@ eslint-plugin-react-hooks@^4.5.0, eslint-plugin-react-hooks@^4.6.0:
   resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.6.0.tgz#4c3e697ad95b77e93f8646aaa1630c1ba607edd3"
   integrity sha512-oFc7Itz9Qxh2x4gNHStv3BqJq54ExXmfC+a1NjAta66IAN87Wu0R/QArgIS9qKzX3dXKPI9H5crl9QchNMY9+g==
 
-eslint-plugin-react@^7.30.1, eslint-plugin-react@^7.31.7, eslint-plugin-react@^7.31.8:
+eslint-plugin-react@^7.31.7, eslint-plugin-react@^7.31.8:
   version "7.31.8"
   resolved "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-7.31.8.tgz#3a4f80c10be1bcbc8197be9e8b641b2a3ef219bf"
   integrity sha512-5lBTZmgQmARLLSYiwI71tiGVTLUuqXantZM6vlSY39OaDSV0M7+32K5DnLkmFrwTe+Ksz0ffuLUC91RUviVZfw==
