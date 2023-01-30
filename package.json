@@ -56,7 +56,7 @@
     "eslint-config-xo-nextjs": "^4.2.1",
     "eslint-config-xo-react": "^0.27.0",
     "eslint-plugin-jsdoc": "^39.3.6",
-    "eslint-plugin-react": "^7.31.8",
+    "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-storybook": "^0.6.4",
     "husky": "^8.0.1",
